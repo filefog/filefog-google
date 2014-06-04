@@ -14,7 +14,7 @@
 var mocha = require('mocha');
 var TestRunner = require('filefog-provider-tests');
 var Provider = require('../index.js');
-var log = require('captains-log')();
+var winston = require('winston');
 
 
 // Grab targeted interfaces from this adapter's `package.json` file:
@@ -31,9 +31,9 @@ try {
 
 
 
-log.info('Testing `' + package.name + '`, a Filefog provider.');
-log.info('Running `filefog-provider-tests`... ');
-console.log();
+winston.info('Testing `' + package.name + '`, a Filefog provider.');
+winston.info('Running `filefog-provider-tests`... ');
+winston.log();
 
 
 
