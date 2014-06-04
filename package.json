@@ -11,7 +11,8 @@
   "devDependencies": {
     "mocha": "^1.20.0",
     "should": "^4.0.0",
-    "sinon": "^1.10.1"
+    "sinon": "^1.10.1",
+    "filefog-provider-tests": "0.0.0"
   },
   "optionalDependencies": {},
   "engines": {
@@ -19,6 +20,7 @@
   },
   "dependencies": {
     "googleapis": "^0.7.0",
-    "q": "^1.0.1"
+    "q": "^1.0.1",
+    "winston": "^0.7.3"
   }
 }
