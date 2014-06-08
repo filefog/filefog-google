@@ -60,7 +60,8 @@ new TestRunner({
         client_secret : 'mWURYHmMKZxr6aeR7DTjRu-q',
         client_scope : "https://www.googleapis.com/auth/drive",
         redirect_url : 'http://localhost:3000/service/callback/google'
-    }
+    },
+    name: package.name
 
 
 });
