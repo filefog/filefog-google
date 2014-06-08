@@ -6,6 +6,9 @@
   "scripts": {
     "test": "make test"
   },
+  "repository": {
+    "url": "https://github.com/filefog/filefog-google.git"
+  },
   "author": "Jason Kulatunga",
   "license": "MIT",
   "devDependencies": {
