@@ -1,6 +1,6 @@
 # FileFog Provider
 
-[![Dependency Status](https://gemnasium.com/filefog/filefog-google.png)](https://gemnasium.com/filefog/filefog-google)
+[![wercker status](https://app.wercker.com/status/ef333f2ec4b0e2f37d93169cf1331423/s "wercker status")](https://app.wercker.com/project/bykey/ef333f2ec4b0e2f37d93169cf1331423)[![Dependency Status](https://gemnasium.com/filefog/filefog-google.png)](https://gemnasium.com/filefog/filefog-google)
 
 A [Filefog](https://github.com/filefog/filefog) adapter for Google Drive. May be used in a [Sails](https://github.com/balderdashy/sails) app or anything using Waterline for the ORM.
 
