@@ -14,7 +14,7 @@
         "mocha": "^1.20.0",
         "should": "^4.0.0",
         "sinon": "^1.10.1",
-        "filefog-provider-tests": "0.0.3"
+        "filefog-provider-tests": "*"
     },
     "optionalDependencies": {},
     "engines": {
