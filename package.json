@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "googleapis": "^0.7.0",
-    "q": "^2.0.2",
-    "winston": "^0.7.3",
+    "node.extend": "^1.0.10",
+    "q": "^1.0.1",
     "request": "^2.36.0",
-    "node.extend": "^1.0.10"
+    "winston": "^0.7.3"
   },
   "keywords": [
     "orm",
