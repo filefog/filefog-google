@@ -21,7 +21,7 @@
     "node": "*"
   },
   "dependencies": {
-    "googleapis": "^0.7.0",
+    "googleapis": "^1.0.20",
     "node.extend": "^1.0.10",
     "q": "^1.0.1",
     "request": "^2.36.0",
