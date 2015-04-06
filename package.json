@@ -1,6 +1,6 @@
 {
   "name": "filefog-google",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "google drive provider for filefog",
   "author": "Jason Kulatunga <jason@thesparktree.com>",
   "main": "index.js",
